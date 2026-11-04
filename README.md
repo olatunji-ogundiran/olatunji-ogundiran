@@ -2,7 +2,7 @@
 
 Optical transport engineer based in Lagos, Nigeria. I design engineering benchmark tasks and verifiable agents for evaluating AI.
 
-- 15+ years in optical transport, DWDM/OTN, RF/microwave, satellite communications and digital signal processing
+- 11+ years in optical transport, DWDM/OTN, RF/microwave, satellite communications and digital signal processing
 - Customer Solutions Engineer at WIOCC; delivered the Equiano submarine cable and capacity builds for Google, Meta and Amazon; led capacity restoration after the March 2024 West African subsea cable disruption
 - Nokia NCDT and Ciena 6500 certified; BEng in Electrical and Electronics Engineering
 
